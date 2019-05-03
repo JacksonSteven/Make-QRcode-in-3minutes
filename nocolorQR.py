@@ -2,7 +2,7 @@
 
 from MyQR import myqr
 myqr.run(words='https://github.com/JacksonSteven',
-         picture='image.jpg',
+         picture='nocolorQR.jpg',
          
          save_name='colorQR2.png')
 #  wods输入网址
